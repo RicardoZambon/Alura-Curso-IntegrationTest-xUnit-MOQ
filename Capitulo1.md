@@ -1,5 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ricardozambon/Alura-Curso-IntegrationTest-xUnit-MOQ?logo=github&logoColor=white)
-
 # Alura Testes de integração com xUnit e MOQ Framework
 ## Testes de Integração
 
