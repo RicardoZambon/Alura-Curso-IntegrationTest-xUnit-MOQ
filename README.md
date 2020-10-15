@@ -11,3 +11,15 @@ Curso da Alura sobre testes de integração com xUnit e MOQ.
 * :black_square_button: Testando o comportamento de seu sistema
 * :black_square_button: Verificando efeitos colaterais
 * :black_square_button: Aplicando em controladores AspNet Core
+
+<br />
+
+<img src="TestesDeIntegracao.png" />
+
+<br />
+
+<img src="Piramide.png" />
+
+<br />
+
+<img src="Assuntos.png" />
