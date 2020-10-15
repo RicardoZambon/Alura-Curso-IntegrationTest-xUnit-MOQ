@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ricardozambon/Alura-Curso-CertificacaoCSharp?logo=github&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/ricardozambon/Alura-Curso-IntegrationTest-xUnit-MOQ?logo=github&logoColor=white)
 
 # Alura Testes de integração com xUnit e MOQ Framework
 Curso da Alura sobre testes de integração com xUnit e MOQ.
